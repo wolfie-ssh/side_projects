@@ -1,0 +1,20 @@
+.container {
+    border: 5px solid #ffcc5c;
+    display: flex;
+}
+
+/* .container > div {
+    flex: 1;
+} */
+
+.home {
+    flex: 2 0 0;
+}
+
+.logout {
+    flex: 1 0 0;
+}
+
+.subs {
+    flex: 0 10 0;
+}
